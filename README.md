@@ -37,5 +37,5 @@ These insights help organizations reduce churn and improve customer experience.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Alok/Customer-Churn-Analysis-PowerBI.git
+git clone https://github.com/alk231/Customer-Churn-Analysis-PowerBI.git
 cd Customer-Churn-Analysis-PowerBI
